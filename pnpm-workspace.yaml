@@ -1,0 +1,6 @@
+minimumReleaseAgeExclude:
+  - eve@0.81.0
+
+ignoredOptionalDependencies:
+  - "@mongodb-js/zstd"
+  - "node-liblzma"
